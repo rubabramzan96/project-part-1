@@ -1,0 +1,15 @@
+body {
+	background-color: lightblue;
+	}
+form
+{
+width: 100px;
+border: 1px solid #FFF;
+margin: 0 auto;
+padding: 3em;
+border-radius: 1em;
+}
+	
+label
+{width: 8em;
+}
